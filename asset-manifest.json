@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/diegosanchezp/pomodoro-timer/static/css/main.657be06b.chunk.css",
+    "main.js": "/diegosanchezp/pomodoro-timer/static/js/main.d29f1a16.chunk.js",
+    "main.js.map": "/diegosanchezp/pomodoro-timer/static/js/main.d29f1a16.chunk.js.map",
+    "runtime-main.js": "/diegosanchezp/pomodoro-timer/static/js/runtime-main.a092fba0.js",
+    "runtime-main.js.map": "/diegosanchezp/pomodoro-timer/static/js/runtime-main.a092fba0.js.map",
+    "static/js/2.d2621481.chunk.js": "/diegosanchezp/pomodoro-timer/static/js/2.d2621481.chunk.js",
+    "static/js/2.d2621481.chunk.js.map": "/diegosanchezp/pomodoro-timer/static/js/2.d2621481.chunk.js.map",
+    "index.html": "/diegosanchezp/pomodoro-timer/index.html",
+    "precache-manifest.8de8b8d135a797ddac93558fb4c02400.js": "/diegosanchezp/pomodoro-timer/precache-manifest.8de8b8d135a797ddac93558fb4c02400.js",
+    "service-worker.js": "/diegosanchezp/pomodoro-timer/service-worker.js",
+    "static/css/main.657be06b.chunk.css.map": "/diegosanchezp/pomodoro-timer/static/css/main.657be06b.chunk.css.map",
+    "static/js/2.d2621481.chunk.js.LICENSE.txt": "/diegosanchezp/pomodoro-timer/static/js/2.d2621481.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a092fba0.js",
+    "static/js/2.d2621481.chunk.js",
+    "static/css/main.657be06b.chunk.css",
+    "static/js/main.d29f1a16.chunk.js"
+  ]
+}
