@@ -1,0 +1,37 @@
+#timer-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 10px auto;
+}
+
+#time-left{
+	font-size: 25px;
+  font-weight: bold;
+  margin: 0;
+}
+#timer-box #actions{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#timer-box button{
+	background: transparent;
+	border: 1px solid white;
+	color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
+#timer-box #actions #reset{
+  margin: 0px 5px 0px 5px;
+}
+
+#timer-label[data-timer-state="running"]{
+  text-shadow: 0px 0px 8px white;
+}
